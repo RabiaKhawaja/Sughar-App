@@ -1,0 +1,4 @@
+project_id = "vjdyidtuamrggpaqnycr"
+
+[functions.eco-assistant]
+verify_jwt = false
